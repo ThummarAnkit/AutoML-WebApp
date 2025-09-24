@@ -1,5 +1,5 @@
 # AutoML-WebApp
-An Automated Machine Learning (AutoML) Web App that allows users to perform end-to-end ML workflows directly from the browser. This project was developed collaboratively with my teammates during Internship at Renu Sharma Foundation. This repository contains the full codebase (frontend + backend) along with additional Jupyter notebooks that showcase the core logic and functions we developed for the AutoML pipeline.
+An Automated Machine Learning (AutoML) Web App that allows users to perform end-to-end ML workflows directly from the browser. This project was developed collaboratively with my teammates during Internship at Renu Sharma Foundation. This repository contains the full codebase (frontend + backend) along with additional python files that showcase the core logic and functions we developed for the AutoML pipeline.
 
 📌 Features
 
